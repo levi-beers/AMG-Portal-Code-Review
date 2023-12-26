@@ -1,0 +1,20 @@
+{
+    "name": "amgportalapp/data-storage",
+    "description": "",
+    "authors": [
+        {
+            "name": "Milos Stojanovic",
+            "email": "stojanovic.loshmi@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "AMGPortal\\DataStorage\\": "src/"
+        }
+    },
+     "autoload-dev": {
+        "psr-4": {
+            "AMGPortal\\DataStorage\\Tests\\": "tests/"
+        }
+    }
+}

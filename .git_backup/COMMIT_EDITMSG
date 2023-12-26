@@ -1,0 +1,13 @@
+ContentSite Controller
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Levi Beers <levibeers@alchemymedia.io>
+#
+# On branch main
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   app/ContentSite.php
+#	new file:   app/Http/Controllers/ContentSitesController.php
+#

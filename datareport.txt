@@ -1,0 +1,1138 @@
+ + Connecting to localhost:userdb
+ + Connected to DB.
+REPORT for SuCo Solar | datasource3
+
+	 + 2022-12-02, datasource (SuCo Solar) brought in 197 records.
+
+	Datasource ID: 2
+	Datasource Table: datasource3
+	Datasource Description: SuCo Solar
+
+	 + 1274 records out from SuCo Solar (datasource3) via Suco to JetMarketing API (JetMarketing API) LIST:Default ESPID:34
+	 + 2309 records out from SuCo Solar (datasource3) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+	 + 84 records out from SuCo Solar (datasource3) via SuCo-Solar (Sendinblue (HIH)) LIST:Do Not Delete ESPID:14
+	 + 8 records out from SuCo Solar (datasource3) via MasterMyFinances-SuCo-Solar (Blastable (Puremailers.com)) LIST:Gmail ESPID:18
+
+	 + 2022-12-03, datasource (SuCo Solar) brought in 178 records.
+
+	Datasource ID: 2
+	Datasource Table: datasource3
+	Datasource Description: SuCo Solar
+
+	 + 24 records out from SuCo Solar (datasource3) via MasterMyFinances-SuCo-Solar (Blastable (Puremailers.com)) LIST:Gmail ESPID:18
+	 + 169 records out from SuCo Solar (datasource3) via Suco to JetMarketing API (JetMarketing API) LIST:Default ESPID:34
+	 + 177 records out from SuCo Solar (datasource3) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+	 + 173 records out from SuCo Solar (datasource3) via SuCo-Solar (Sendinblue (HIH)) LIST:Do Not Delete ESPID:14
+
+	 + 2022-12-04, datasource (SuCo Solar) brought in 173 records.
+
+	Datasource ID: 2
+	Datasource Table: datasource3
+	Datasource Description: SuCo Solar
+
+	 + 24 records out from SuCo Solar (datasource3) via MasterMyFinances-SuCo-Solar (Blastable (Puremailers.com)) LIST:Gmail ESPID:18
+	 + 167 records out from SuCo Solar (datasource3) via SuCo-Solar (Sendinblue (HIH)) LIST:Do Not Delete ESPID:14
+	 + 156 records out from SuCo Solar (datasource3) via Suco to JetMarketing API (JetMarketing API) LIST:Default ESPID:34
+	 + 173 records out from SuCo Solar (datasource3) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+
+	 + 2022-12-05, datasource (SuCo Solar) brought in 186 records.
+
+	Datasource ID: 2
+	Datasource Table: datasource3
+	Datasource Description: SuCo Solar
+
+	 + 24 records out from SuCo Solar (datasource3) via MasterMyFinances-SuCo-Solar (Blastable (Puremailers.com)) LIST:Gmail ESPID:18
+	 + 175 records out from SuCo Solar (datasource3) via Suco to JetMarketing API (JetMarketing API) LIST:Default ESPID:34
+	 + 186 records out from SuCo Solar (datasource3) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+	 + 177 records out from SuCo Solar (datasource3) via SuCo-Solar (Sendinblue (HIH)) LIST:Do Not Delete ESPID:14
+
+	 + 2022-12-06, datasource (SuCo Solar) brought in 187 records.
+
+	Datasource ID: 2
+	Datasource Table: datasource3
+	Datasource Description: SuCo Solar
+
+	 + 24 records out from SuCo Solar (datasource3) via MasterMyFinances-SuCo-Solar (Blastable (Puremailers.com)) LIST:Gmail ESPID:18
+	 + 171 records out from SuCo Solar (datasource3) via Suco to JetMarketing API (JetMarketing API) LIST:Default ESPID:34
+	 + 187 records out from SuCo Solar (datasource3) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+	 + 180 records out from SuCo Solar (datasource3) via SuCo-Solar (Sendinblue (HIH)) LIST:Do Not Delete ESPID:14
+
+	 + 2022-12-07, datasource (SuCo Solar) brought in 133 records.
+
+	Datasource ID: 2
+	Datasource Table: datasource3
+	Datasource Description: SuCo Solar
+
+	 + 24 records out from SuCo Solar (datasource3) via MasterMyFinances-SuCo-Solar (Blastable (Puremailers.com)) LIST:Gmail ESPID:18
+	 + 117 records out from SuCo Solar (datasource3) via Suco to JetMarketing API (JetMarketing API) LIST:Default ESPID:34
+	 + 133 records out from SuCo Solar (datasource3) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+	 + 124 records out from SuCo Solar (datasource3) via SuCo-Solar (Sendinblue (HIH)) LIST:Do Not Delete ESPID:14
+
+	 + 2022-12-08, datasource (SuCo Solar) brought in 0 records.
+
+	Datasource ID: 2
+	Datasource Table: datasource3
+	Datasource Description: SuCo Solar
+
+	 + 11 records out from SuCo Solar (datasource3) via MasterMyFinances-SuCo-Solar (Blastable (Puremailers.com)) LIST:Gmail ESPID:18
+
+REPORT for SuCo Refinance | datasource4
+
+	 + 2022-12-02, datasource (SuCo Refinance) brought in 775 records.
+
+	Datasource ID: 3
+	Datasource Table: datasource4
+	Datasource Description: SuCo Refinance
+
+	 + 3462 records out from SuCo Refinance (datasource4) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+	 + 1277 records out from SuCo Refinance (datasource4) via Suco to JetMarketing API (JetMarketing API) LIST:Default ESPID:34
+	 + 262 records out from SuCo Refinance (datasource4) via SuCo-Gmail-Refinance (Sendinblue (HIH)) LIST:Initial Gmail Mortgage Purchase (DO NOT DELETE) ESPID:17
+
+	 + 2022-12-03, datasource (SuCo Refinance) brought in 827 records.
+
+	Datasource ID: 3
+	Datasource Table: datasource4
+	Datasource Description: SuCo Refinance
+
+	 + 11137 records out from SuCo Refinance (datasource4) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+	 + 777 records out from SuCo Refinance (datasource4) via Suco to JetMarketing API (JetMarketing API) LIST:Default ESPID:34
+	 + 799 records out from SuCo Refinance (datasource4) via SuCo-Gmail-Refinance (Sendinblue (HIH)) LIST:Initial Gmail Mortgage Purchase (DO NOT DELETE) ESPID:17
+
+	 + 2022-12-04, datasource (SuCo Refinance) brought in 861 records.
+
+	Datasource ID: 3
+	Datasource Table: datasource4
+	Datasource Description: SuCo Refinance
+
+	 + 11107 records out from SuCo Refinance (datasource4) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+	 + 773 records out from SuCo Refinance (datasource4) via Suco to JetMarketing API (JetMarketing API) LIST:Default ESPID:34
+	 + 829 records out from SuCo Refinance (datasource4) via SuCo-Gmail-Refinance (Sendinblue (HIH)) LIST:Initial Gmail Mortgage Purchase (DO NOT DELETE) ESPID:17
+
+	 + 2022-12-05, datasource (SuCo Refinance) brought in 829 records.
+
+	Datasource ID: 3
+	Datasource Table: datasource4
+	Datasource Description: SuCo Refinance
+
+	 + 3375 records out from SuCo Refinance (datasource4) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+	 + 744 records out from SuCo Refinance (datasource4) via Suco to JetMarketing API (JetMarketing API) LIST:Default ESPID:34
+	 + 755 records out from SuCo Refinance (datasource4) via SuCo-Gmail-Refinance (Sendinblue (HIH)) LIST:Initial Gmail Mortgage Purchase (DO NOT DELETE) ESPID:17
+
+	 + 2022-12-06, datasource (SuCo Refinance) brought in 823 records.
+
+	Datasource ID: 3
+	Datasource Table: datasource4
+	Datasource Description: SuCo Refinance
+
+	 + 722 records out from SuCo Refinance (datasource4) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+	 + 700 records out from SuCo Refinance (datasource4) via Suco to JetMarketing API (JetMarketing API) LIST:Default ESPID:34
+	 + 690 records out from SuCo Refinance (datasource4) via SuCo-Gmail-Refinance (Sendinblue (HIH)) LIST:Initial Gmail Mortgage Purchase (DO NOT DELETE) ESPID:17
+
+	 + 2022-12-07, datasource (SuCo Refinance) brought in 872 records.
+
+	Datasource ID: 3
+	Datasource Table: datasource4
+	Datasource Description: SuCo Refinance
+
+	 + 774 records out from SuCo Refinance (datasource4) via SuCo-Gmail-Refinance (Sendinblue (HIH)) LIST:Initial Gmail Mortgage Purchase (DO NOT DELETE) ESPID:17
+	 + 733 records out from SuCo Refinance (datasource4) via Suco to JetMarketing API (JetMarketing API) LIST:Default ESPID:34
+	 + 779 records out from SuCo Refinance (datasource4) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+
+	 + 2022-12-08, datasource (SuCo Refinance) brought in 0 records.
+
+	Datasource ID: 3
+	Datasource Table: datasource4
+	Datasource Description: SuCo Refinance
+
+
+REPORT for SuCo Purchase / Windows | datasource5
+
+	 + 2022-12-02, datasource (SuCo Purchase / Windows) brought in 861 records.
+
+	Datasource ID: 4
+	Datasource Table: datasource5
+	Datasource Description: SuCo Purchase / Windows
+
+	 + 1378 records out from SuCo Purchase / Windows (datasource5) via Suco to JetMarketing API (JetMarketing API) LIST:Default ESPID:34
+	 + 3461 records out from SuCo Purchase / Windows (datasource5) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+
+	 + 2022-12-03, datasource (SuCo Purchase / Windows) brought in 902 records.
+
+	Datasource ID: 4
+	Datasource Table: datasource5
+	Datasource Description: SuCo Purchase / Windows
+
+	 + 11182 records out from SuCo Purchase / Windows (datasource5) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+	 + 875 records out from SuCo Purchase / Windows (datasource5) via Suco to JetMarketing API (JetMarketing API) LIST:Default ESPID:34
+
+	 + 2022-12-04, datasource (SuCo Purchase / Windows) brought in 980 records.
+
+	Datasource ID: 4
+	Datasource Table: datasource5
+	Datasource Description: SuCo Purchase / Windows
+
+	 + 11157 records out from SuCo Purchase / Windows (datasource5) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+	 + 965 records out from SuCo Purchase / Windows (datasource5) via Suco to JetMarketing API (JetMarketing API) LIST:Default ESPID:34
+
+	 + 2022-12-05, datasource (SuCo Purchase / Windows) brought in 935 records.
+
+	Datasource ID: 4
+	Datasource Table: datasource5
+	Datasource Description: SuCo Purchase / Windows
+
+	 + 11158 records out from SuCo Purchase / Windows (datasource5) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+	 + 911 records out from SuCo Purchase / Windows (datasource5) via Suco to JetMarketing API (JetMarketing API) LIST:Default ESPID:34
+
+	 + 2022-12-06, datasource (SuCo Purchase / Windows) brought in 871 records.
+
+	Datasource ID: 4
+	Datasource Table: datasource5
+	Datasource Description: SuCo Purchase / Windows
+
+	 + 11067 records out from SuCo Purchase / Windows (datasource5) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+	 + 866 records out from SuCo Purchase / Windows (datasource5) via Suco to JetMarketing API (JetMarketing API) LIST:Default ESPID:34
+
+	 + 2022-12-07, datasource (SuCo Purchase / Windows) brought in 669 records.
+
+	Datasource ID: 4
+	Datasource Table: datasource5
+	Datasource Description: SuCo Purchase / Windows
+
+	 + 11145 records out from SuCo Purchase / Windows (datasource5) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+	 + 661 records out from SuCo Purchase / Windows (datasource5) via Suco to JetMarketing API (JetMarketing API) LIST:Default ESPID:34
+
+	 + 2022-12-08, datasource (SuCo Purchase / Windows) brought in 0 records.
+
+	Datasource ID: 4
+	Datasource Table: datasource5
+	Datasource Description: SuCo Purchase / Windows
+
+	 + 8520 records out from SuCo Purchase / Windows (datasource5) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+
+REPORT for SuCo Windows | datasource6
+
+	 + 2022-12-02, datasource (SuCo Windows) brought in 257 records.
+
+	Datasource ID: 5
+	Datasource Table: datasource6
+	Datasource Description: SuCo Windows
+
+	 + 3530 records out from SuCo Windows (datasource6) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+	 + 1246 records out from SuCo Windows (datasource6) via Suco to JetMarketing API (JetMarketing API) LIST:Default ESPID:34
+	 + 102 records out from SuCo Windows (datasource6) via SuCo-Gmail-Windows (Sendinblue (HIH)) LIST:Gmail ESPID:20
+
+	 + 2022-12-03, datasource (SuCo Windows) brought in 280 records.
+
+	Datasource ID: 5
+	Datasource Table: datasource6
+	Datasource Description: SuCo Windows
+
+	 + 4931 records out from SuCo Windows (datasource6) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+	 + 273 records out from SuCo Windows (datasource6) via SuCo-Gmail-Windows (Sendinblue (HIH)) LIST:Gmail ESPID:20
+	 + 270 records out from SuCo Windows (datasource6) via Suco to JetMarketing API (JetMarketing API) LIST:Default ESPID:34
+
+	 + 2022-12-04, datasource (SuCo Windows) brought in 253 records.
+
+	Datasource ID: 5
+	Datasource Table: datasource6
+	Datasource Description: SuCo Windows
+
+	 + 239 records out from SuCo Windows (datasource6) via Suco to JetMarketing API (JetMarketing API) LIST:Default ESPID:34
+	 + 250 records out from SuCo Windows (datasource6) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+	 + 245 records out from SuCo Windows (datasource6) via SuCo-Gmail-Windows (Sendinblue (HIH)) LIST:Gmail ESPID:20
+
+	 + 2022-12-05, datasource (SuCo Windows) brought in 301 records.
+
+	Datasource ID: 5
+	Datasource Table: datasource6
+	Datasource Description: SuCo Windows
+
+	 + 292 records out from SuCo Windows (datasource6) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+	 + 287 records out from SuCo Windows (datasource6) via SuCo-Gmail-Windows (Sendinblue (HIH)) LIST:Gmail ESPID:20
+	 + 278 records out from SuCo Windows (datasource6) via Suco to JetMarketing API (JetMarketing API) LIST:Default ESPID:34
+
+	 + 2022-12-06, datasource (SuCo Windows) brought in 269 records.
+
+	Datasource ID: 5
+	Datasource Table: datasource6
+	Datasource Description: SuCo Windows
+
+	 + 258 records out from SuCo Windows (datasource6) via Suco to JetMarketing API (JetMarketing API) LIST:Default ESPID:34
+	 + 268 records out from SuCo Windows (datasource6) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+	 + 260 records out from SuCo Windows (datasource6) via SuCo-Gmail-Windows (Sendinblue (HIH)) LIST:Gmail ESPID:20
+
+	 + 2022-12-07, datasource (SuCo Windows) brought in 211 records.
+
+	Datasource ID: 5
+	Datasource Table: datasource6
+	Datasource Description: SuCo Windows
+
+	 + 208 records out from SuCo Windows (datasource6) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+	 + 196 records out from SuCo Windows (datasource6) via Suco to JetMarketing API (JetMarketing API) LIST:Default ESPID:34
+	 + 198 records out from SuCo Windows (datasource6) via SuCo-Gmail-Windows (Sendinblue (HIH)) LIST:Gmail ESPID:20
+
+	 + 2022-12-08, datasource (SuCo Windows) brought in 0 records.
+
+	Datasource ID: 5
+	Datasource Table: datasource6
+	Datasource Description: SuCo Windows
+
+
+REPORT for SuCo Roofing | datasource7
+
+	 + 2022-12-02, datasource (SuCo Roofing) brought in 214 records.
+
+	Datasource ID: 6
+	Datasource Table: datasource7
+	Datasource Description: SuCo Roofing
+
+	 + 95 records out from SuCo Roofing (datasource7) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+	 + 16 records out from SuCo Roofing (datasource7) via Suco to JetMarketing API (JetMarketing API) LIST:Default ESPID:34
+	 + 90 records out from SuCo Roofing (datasource7) via SuCo-Roofing-Gmail (Sendinblue (HIH)) LIST:Initial Gmail Roofing (DO NOT DELETE) ESPID:15
+
+	 + 2022-12-03, datasource (SuCo Roofing) brought in 222 records.
+
+	Datasource ID: 6
+	Datasource Table: datasource7
+	Datasource Description: SuCo Roofing
+
+	 + 221 records out from SuCo Roofing (datasource7) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+	 + 211 records out from SuCo Roofing (datasource7) via SuCo-Roofing-Gmail (Sendinblue (HIH)) LIST:Initial Gmail Roofing (DO NOT DELETE) ESPID:15
+
+	 + 2022-12-04, datasource (SuCo Roofing) brought in 205 records.
+
+	Datasource ID: 6
+	Datasource Table: datasource7
+	Datasource Description: SuCo Roofing
+
+	 + 205 records out from SuCo Roofing (datasource7) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+	 + 195 records out from SuCo Roofing (datasource7) via SuCo-Roofing-Gmail (Sendinblue (HIH)) LIST:Initial Gmail Roofing (DO NOT DELETE) ESPID:15
+
+	 + 2022-12-05, datasource (SuCo Roofing) brought in 189 records.
+
+	Datasource ID: 6
+	Datasource Table: datasource7
+	Datasource Description: SuCo Roofing
+
+	 + 189 records out from SuCo Roofing (datasource7) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+	 + 179 records out from SuCo Roofing (datasource7) via SuCo-Roofing-Gmail (Sendinblue (HIH)) LIST:Initial Gmail Roofing (DO NOT DELETE) ESPID:15
+
+	 + 2022-12-06, datasource (SuCo Roofing) brought in 180 records.
+
+	Datasource ID: 6
+	Datasource Table: datasource7
+	Datasource Description: SuCo Roofing
+
+	 + 180 records out from SuCo Roofing (datasource7) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+	 + 172 records out from SuCo Roofing (datasource7) via SuCo-Roofing-Gmail (Sendinblue (HIH)) LIST:Initial Gmail Roofing (DO NOT DELETE) ESPID:15
+
+	 + 2022-12-07, datasource (SuCo Roofing) brought in 174 records.
+
+	Datasource ID: 6
+	Datasource Table: datasource7
+	Datasource Description: SuCo Roofing
+
+	 + 173 records out from SuCo Roofing (datasource7) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+	 + 168 records out from SuCo Roofing (datasource7) via SuCo-Roofing-Gmail (Sendinblue (HIH)) LIST:Initial Gmail Roofing (DO NOT DELETE) ESPID:15
+
+	 + 2022-12-08, datasource (SuCo Roofing) brought in 0 records.
+
+	Datasource ID: 6
+	Datasource Table: datasource7
+	Datasource Description: SuCo Roofing
+
+
+REPORT for JetMarketing Benefit Data | datajetbenefits
+
+	 + 2022-12-02, datasource (JetMarketing Benefit Data) brought in 0 records.
+
+	Datasource ID: 7
+	Datasource Table: datajetbenefits
+	Datasource Description: JetMarketing Benefit Data
+
+	 + 1167 records out from JetMarketing Benefit Data (datajetbenefits) via Main SIB account (Sendinblue (Main)) LIST:Do Not Delete ESPID:1
+
+	 + 2022-12-03, datasource (JetMarketing Benefit Data) brought in 0 records.
+
+	Datasource ID: 7
+	Datasource Table: datajetbenefits
+	Datasource Description: JetMarketing Benefit Data
+
+	 + 3337 records out from JetMarketing Benefit Data (datajetbenefits) via Main SIB account (Sendinblue (Main)) LIST:Do Not Delete ESPID:1
+
+	 + 2022-12-04, datasource (JetMarketing Benefit Data) brought in 0 records.
+
+	Datasource ID: 7
+	Datasource Table: datajetbenefits
+	Datasource Description: JetMarketing Benefit Data
+
+
+	 + 2022-12-05, datasource (JetMarketing Benefit Data) brought in 27448 records.
+
+	Datasource ID: 7
+	Datasource Table: datajetbenefits
+	Datasource Description: JetMarketing Benefit Data
+
+	 + 546 records out from JetMarketing Benefit Data (datajetbenefits) via KN version of SIB (Sendinblue (KN)) LIST:Do Not Delete ESPID:2
+	 + 798 records out from JetMarketing Benefit Data (datajetbenefits) via Main SIB account (Sendinblue (Main)) LIST:Do Not Delete ESPID:1
+	 + 945 records out from JetMarketing Benefit Data (datajetbenefits) via IF version of SIB (Sendinblue (IF)) LIST:Do Not Delete ESPID:3
+
+	 + 2022-12-06, datasource (JetMarketing Benefit Data) brought in 11471 records.
+
+	Datasource ID: 7
+	Datasource Table: datajetbenefits
+	Datasource Description: JetMarketing Benefit Data
+
+	 + 3582 records out from JetMarketing Benefit Data (datajetbenefits) via IF version of SIB (Sendinblue (IF)) LIST:Do Not Delete ESPID:3
+	 + 2351 records out from JetMarketing Benefit Data (datajetbenefits) via KN version of SIB (Sendinblue (KN)) LIST:Do Not Delete ESPID:2
+	 + 3330 records out from JetMarketing Benefit Data (datajetbenefits) via Main SIB account (Sendinblue (Main)) LIST:Do Not Delete ESPID:1
+
+	 + 2022-12-07, datasource (JetMarketing Benefit Data) brought in 11025 records.
+
+	Datasource ID: 7
+	Datasource Table: datajetbenefits
+	Datasource Description: JetMarketing Benefit Data
+
+	 + 3528 records out from JetMarketing Benefit Data (datajetbenefits) via IF version of SIB (Sendinblue (IF)) LIST:Do Not Delete ESPID:3
+	 + 3139 records out from JetMarketing Benefit Data (datajetbenefits) via KN version of SIB (Sendinblue (KN)) LIST:Do Not Delete ESPID:2
+	 + 3363 records out from JetMarketing Benefit Data (datajetbenefits) via Main SIB account (Sendinblue (Main)) LIST:Do Not Delete ESPID:1
+
+	 + 2022-12-08, datasource (JetMarketing Benefit Data) brought in 6249 records.
+
+	Datasource ID: 7
+	Datasource Table: datajetbenefits
+	Datasource Description: JetMarketing Benefit Data
+
+	 + 1576 records out from JetMarketing Benefit Data (datajetbenefits) via IF version of SIB (Sendinblue (IF)) LIST:Do Not Delete ESPID:3
+	 + 4073 records out from JetMarketing Benefit Data (datajetbenefits) via Main SIB account (Sendinblue (Main)) LIST:Do Not Delete ESPID:1
+	 + 4284 records out from JetMarketing Benefit Data (datajetbenefits) via KN version of SIB (Sendinblue (KN)) LIST:Do Not Delete ESPID:2
+
+REPORT for SuCo Health/Medicare | datasucohealth
+
+	 + 2022-12-02, datasource (SuCo Health/Medicare) brought in 925 records.
+
+	Datasource ID: 8
+	Datasource Table: datasucohealth
+	Datasource Description: SuCo Health/Medicare
+
+	 + 3546 records out from SuCo Health/Medicare (datasucohealth) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+	 + 828 records out from SuCo Health/Medicare (datasucohealth) via Suco to JetMarketing API (JetMarketing API) LIST:Default ESPID:34
+
+	 + 2022-12-03, datasource (SuCo Health/Medicare) brought in 78 records.
+
+	Datasource ID: 8
+	Datasource Table: datasucohealth
+	Datasource Description: SuCo Health/Medicare
+
+	 + 10490 records out from SuCo Health/Medicare (datasucohealth) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+
+	 + 2022-12-04, datasource (SuCo Health/Medicare) brought in 49 records.
+
+	Datasource ID: 8
+	Datasource Table: datasucohealth
+	Datasource Description: SuCo Health/Medicare
+
+	 + 49 records out from SuCo Health/Medicare (datasucohealth) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+
+	 + 2022-12-05, datasource (SuCo Health/Medicare) brought in 625 records.
+
+	Datasource ID: 8
+	Datasource Table: datasucohealth
+	Datasource Description: SuCo Health/Medicare
+
+	 + 625 records out from SuCo Health/Medicare (datasucohealth) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+
+	 + 2022-12-06, datasource (SuCo Health/Medicare) brought in 700 records.
+
+	Datasource ID: 8
+	Datasource Table: datasucohealth
+	Datasource Description: SuCo Health/Medicare
+
+	 + 700 records out from SuCo Health/Medicare (datasucohealth) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+
+	 + 2022-12-07, datasource (SuCo Health/Medicare) brought in 726 records.
+
+	Datasource ID: 8
+	Datasource Table: datasucohealth
+	Datasource Description: SuCo Health/Medicare
+
+	 + 726 records out from SuCo Health/Medicare (datasucohealth) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+
+	 + 2022-12-08, datasource (SuCo Health/Medicare) brought in 0 records.
+
+	Datasource ID: 8
+	Datasource Table: datasucohealth
+	Datasource Description: SuCo Health/Medicare
+
+
+REPORT for SuCo Auto Insurance | datasucoautoins
+
+	 + 2022-12-02, datasource (SuCo Auto Insurance) brought in 1 records.
+
+	Datasource ID: 9
+	Datasource Table: datasucoautoins
+	Datasource Description: SuCo Auto Insurance
+
+
+	 + 2022-12-03, datasource (SuCo Auto Insurance) brought in 9 records.
+
+	Datasource ID: 9
+	Datasource Table: datasucoautoins
+	Datasource Description: SuCo Auto Insurance
+
+	 + 9 records out from SuCo Auto Insurance (datasucoautoins) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+
+	 + 2022-12-04, datasource (SuCo Auto Insurance) brought in 6 records.
+
+	Datasource ID: 9
+	Datasource Table: datasucoautoins
+	Datasource Description: SuCo Auto Insurance
+
+	 + 6 records out from SuCo Auto Insurance (datasucoautoins) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+
+	 + 2022-12-05, datasource (SuCo Auto Insurance) brought in 4 records.
+
+	Datasource ID: 9
+	Datasource Table: datasucoautoins
+	Datasource Description: SuCo Auto Insurance
+
+	 + 4 records out from SuCo Auto Insurance (datasucoautoins) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+
+	 + 2022-12-06, datasource (SuCo Auto Insurance) brought in 9 records.
+
+	Datasource ID: 9
+	Datasource Table: datasucoautoins
+	Datasource Description: SuCo Auto Insurance
+
+	 + 9 records out from SuCo Auto Insurance (datasucoautoins) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+
+	 + 2022-12-07, datasource (SuCo Auto Insurance) brought in 1 records.
+
+	Datasource ID: 9
+	Datasource Table: datasucoautoins
+	Datasource Description: SuCo Auto Insurance
+
+	 + 1 records out from SuCo Auto Insurance (datasucoautoins) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+
+	 + 2022-12-08, datasource (SuCo Auto Insurance) brought in 0 records.
+
+	Datasource ID: 9
+	Datasource Table: datasucoautoins
+	Datasource Description: SuCo Auto Insurance
+
+
+REPORT for SuCo Bathroom Remodel | datasucobathremodel
+
+	 + 2022-12-02, datasource (SuCo Bathroom Remodel) brought in 267 records.
+
+	Datasource ID: 10
+	Datasource Table: datasucobathremodel
+	Datasource Description: SuCo Bathroom Remodel
+
+	 + 16 records out from SuCo Bathroom Remodel (datasucobathremodel) via Suco to JetMarketing API (JetMarketing API) LIST:Default ESPID:34
+	 + 69 records out from SuCo Bathroom Remodel (datasucobathremodel) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+
+	 + 2022-12-03, datasource (SuCo Bathroom Remodel) brought in 215 records.
+
+	Datasource ID: 10
+	Datasource Table: datasucobathremodel
+	Datasource Description: SuCo Bathroom Remodel
+
+	 + 215 records out from SuCo Bathroom Remodel (datasucobathremodel) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+
+	 + 2022-12-04, datasource (SuCo Bathroom Remodel) brought in 249 records.
+
+	Datasource ID: 10
+	Datasource Table: datasucobathremodel
+	Datasource Description: SuCo Bathroom Remodel
+
+	 + 249 records out from SuCo Bathroom Remodel (datasucobathremodel) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+
+	 + 2022-12-05, datasource (SuCo Bathroom Remodel) brought in 158 records.
+
+	Datasource ID: 10
+	Datasource Table: datasucobathremodel
+	Datasource Description: SuCo Bathroom Remodel
+
+	 + 158 records out from SuCo Bathroom Remodel (datasucobathremodel) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+
+	 + 2022-12-06, datasource (SuCo Bathroom Remodel) brought in 167 records.
+
+	Datasource ID: 10
+	Datasource Table: datasucobathremodel
+	Datasource Description: SuCo Bathroom Remodel
+
+	 + 167 records out from SuCo Bathroom Remodel (datasucobathremodel) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+
+	 + 2022-12-07, datasource (SuCo Bathroom Remodel) brought in 125 records.
+
+	Datasource ID: 10
+	Datasource Table: datasucobathremodel
+	Datasource Description: SuCo Bathroom Remodel
+
+	 + 125 records out from SuCo Bathroom Remodel (datasucobathremodel) via SuCo Data to CRMarketing API (CRMarketing API) LIST:Default ESPID:35
+
+	 + 2022-12-08, datasource (SuCo Bathroom Remodel) brought in 0 records.
+
+	Datasource ID: 10
+	Datasource Table: datasucobathremodel
+	Datasource Description: SuCo Bathroom Remodel
+
+
+REPORT for R1D SMS Data | datar1dmulti
+
+	 + 2022-12-02, datasource (R1D SMS Data) brought in 0 records.
+
+	Datasource ID: 11
+	Datasource Table: datar1dmulti
+	Datasource Description: R1D SMS Data
+
+
+	 + 2022-12-03, datasource (R1D SMS Data) brought in 0 records.
+
+	Datasource ID: 11
+	Datasource Table: datar1dmulti
+	Datasource Description: R1D SMS Data
+
+
+	 + 2022-12-04, datasource (R1D SMS Data) brought in 0 records.
+
+	Datasource ID: 11
+	Datasource Table: datar1dmulti
+	Datasource Description: R1D SMS Data
+
+
+	 + 2022-12-05, datasource (R1D SMS Data) brought in 0 records.
+
+	Datasource ID: 11
+	Datasource Table: datar1dmulti
+	Datasource Description: R1D SMS Data
+
+
+	 + 2022-12-06, datasource (R1D SMS Data) brought in 0 records.
+
+	Datasource ID: 11
+	Datasource Table: datar1dmulti
+	Datasource Description: R1D SMS Data
+
+
+	 + 2022-12-07, datasource (R1D SMS Data) brought in 0 records.
+
+	Datasource ID: 11
+	Datasource Table: datar1dmulti
+	Datasource Description: R1D SMS Data
+
+
+	 + 2022-12-08, datasource (R1D SMS Data) brought in 0 records.
+
+	Datasource ID: 11
+	Datasource Table: datar1dmulti
+	Datasource Description: R1D SMS Data
+
+
+REPORT for FLEX Data Feed | dataflex
+
+	 + 2022-12-02, datasource (FLEX Data Feed) brought in 8059 records.
+
+	Datasource ID: 12
+	Datasource Table: dataflex
+	Datasource Description: FLEX Data Feed
+
+	 + 2320 records out from FLEX Data Feed (dataflex) via Flex Data Feed to JetM API (JetMarketing API) LIST:Default ESPID:23
+	 + 816 records out from FLEX Data Feed (dataflex) via KnowledgeNuts Flex Data to SIB (Sendinblue (KN)) LIST:Initial Flex ESPID:30
+	 + 1971 records out from FLEX Data Feed (dataflex) via Flex to Master SIB (Sendinblue (Main)) LIST:Initial Dealzingo ESPID:27
+
+	 + 2022-12-03, datasource (FLEX Data Feed) brought in 6299 records.
+
+	Datasource ID: 12
+	Datasource Table: dataflex
+	Datasource Description: FLEX Data Feed
+
+	 + 6106 records out from FLEX Data Feed (dataflex) via Flex Data Feed to JetM API (JetMarketing API) LIST:Default ESPID:23
+	 + 3479 records out from FLEX Data Feed (dataflex) via KnowledgeNuts Flex Data to SIB (Sendinblue (KN)) LIST:Initial Flex ESPID:30
+	 + 3920 records out from FLEX Data Feed (dataflex) via Flex to Master SIB (Sendinblue (Main)) LIST:Initial Dealzingo ESPID:27
+
+	 + 2022-12-04, datasource (FLEX Data Feed) brought in 6174 records.
+
+	Datasource ID: 12
+	Datasource Table: dataflex
+	Datasource Description: FLEX Data Feed
+
+	 + 6006 records out from FLEX Data Feed (dataflex) via Flex Data Feed to JetM API (JetMarketing API) LIST:Default ESPID:23
+	 + 3474 records out from FLEX Data Feed (dataflex) via KnowledgeNuts Flex Data to SIB (Sendinblue (KN)) LIST:Initial Flex ESPID:30
+	 + 3911 records out from FLEX Data Feed (dataflex) via Flex to Master SIB (Sendinblue (Main)) LIST:Initial Dealzingo ESPID:27
+
+	 + 2022-12-05, datasource (FLEX Data Feed) brought in 7067 records.
+
+	Datasource ID: 12
+	Datasource Table: dataflex
+	Datasource Description: FLEX Data Feed
+
+	 + 4507 records out from FLEX Data Feed (dataflex) via Flex to Master SIB (Sendinblue (Main)) LIST:Initial Dealzingo ESPID:27
+	 + 6711 records out from FLEX Data Feed (dataflex) via Flex Data Feed to JetM API (JetMarketing API) LIST:Default ESPID:23
+	 + 3191 records out from FLEX Data Feed (dataflex) via KnowledgeNuts Flex Data to SIB (Sendinblue (KN)) LIST:Initial Flex ESPID:30
+
+	 + 2022-12-06, datasource (FLEX Data Feed) brought in 6909 records.
+
+	Datasource ID: 12
+	Datasource Table: dataflex
+	Datasource Description: FLEX Data Feed
+
+	 + 6634 records out from FLEX Data Feed (dataflex) via Flex Data Feed to JetM API (JetMarketing API) LIST:Default ESPID:23
+	 + 3199 records out from FLEX Data Feed (dataflex) via KnowledgeNuts Flex Data to SIB (Sendinblue (KN)) LIST:Initial Flex ESPID:30
+	 + 5191 records out from FLEX Data Feed (dataflex) via Flex to Master SIB (Sendinblue (Main)) LIST:Initial Dealzingo ESPID:27
+
+	 + 2022-12-07, datasource (FLEX Data Feed) brought in 7134 records.
+
+	Datasource ID: 12
+	Datasource Table: dataflex
+	Datasource Description: FLEX Data Feed
+
+	 + 6238 records out from FLEX Data Feed (dataflex) via Flex Data Feed to JetM API (JetMarketing API) LIST:Default ESPID:23
+	 + 4349 records out from FLEX Data Feed (dataflex) via KnowledgeNuts Flex Data to SIB (Sendinblue (KN)) LIST:Initial Flex ESPID:30
+	 + 4375 records out from FLEX Data Feed (dataflex) via Flex to Master SIB (Sendinblue (Main)) LIST:Initial Dealzingo ESPID:27
+
+	 + 2022-12-08, datasource (FLEX Data Feed) brought in 4218 records.
+
+	Datasource ID: 12
+	Datasource Table: dataflex
+	Datasource Description: FLEX Data Feed
+
+	 + 3124 records out from FLEX Data Feed (dataflex) via Flex Data Feed to JetM API (JetMarketing API) LIST:Default ESPID:23
+	 + 5518 records out from FLEX Data Feed (dataflex) via Flex to Master SIB (Sendinblue (Main)) LIST:Initial Dealzingo ESPID:27
+	 + 6741 records out from FLEX Data Feed (dataflex) via KnowledgeNuts Flex Data to SIB (Sendinblue (KN)) LIST:Initial Flex ESPID:30
+
+REPORT for TurtleLeads Health & Life | dataturtleleads
+
+	 + 2022-12-02, datasource (TurtleLeads Health & Life) brought in 379 records.
+
+	Datasource ID: 13
+	Datasource Table: dataturtleleads
+	Datasource Description: TurtleLeads Health & Life
+
+	 + 144 records out from TurtleLeads Health & Life (dataturtleleads) via Turtle Leads to CR Marketing (CRMarketing API) LIST:Default ESPID:33
+	 + 86 records out from TurtleLeads Health & Life (dataturtleleads) via Turtle Leads to Master SIB (Sendinblue (Main)) LIST:Initial Turtle Leads ESPID:28
+
+	 + 2022-12-03, datasource (TurtleLeads Health & Life) brought in 146 records.
+
+	Datasource ID: 13
+	Datasource Table: dataturtleleads
+	Datasource Description: TurtleLeads Health & Life
+
+	 + 145 records out from TurtleLeads Health & Life (dataturtleleads) via Turtle Leads to CR Marketing (CRMarketing API) LIST:Default ESPID:33
+	 + 78 records out from TurtleLeads Health & Life (dataturtleleads) via Turtle Leads to Master SIB (Sendinblue (Main)) LIST:Initial Turtle Leads ESPID:28
+
+	 + 2022-12-04, datasource (TurtleLeads Health & Life) brought in 139 records.
+
+	Datasource ID: 13
+	Datasource Table: dataturtleleads
+	Datasource Description: TurtleLeads Health & Life
+
+	 + 139 records out from TurtleLeads Health & Life (dataturtleleads) via Turtle Leads to CR Marketing (CRMarketing API) LIST:Default ESPID:33
+	 + 71 records out from TurtleLeads Health & Life (dataturtleleads) via Turtle Leads to Master SIB (Sendinblue (Main)) LIST:Initial Turtle Leads ESPID:28
+
+	 + 2022-12-05, datasource (TurtleLeads Health & Life) brought in 433 records.
+
+	Datasource ID: 13
+	Datasource Table: dataturtleleads
+	Datasource Description: TurtleLeads Health & Life
+
+	 + 431 records out from TurtleLeads Health & Life (dataturtleleads) via Turtle Leads to CR Marketing (CRMarketing API) LIST:Default ESPID:33
+	 + 223 records out from TurtleLeads Health & Life (dataturtleleads) via Turtle Leads to Master SIB (Sendinblue (Main)) LIST:Initial Turtle Leads ESPID:28
+
+	 + 2022-12-06, datasource (TurtleLeads Health & Life) brought in 484 records.
+
+	Datasource ID: 13
+	Datasource Table: dataturtleleads
+	Datasource Description: TurtleLeads Health & Life
+
+	 + 481 records out from TurtleLeads Health & Life (dataturtleleads) via Turtle Leads to CR Marketing (CRMarketing API) LIST:Default ESPID:33
+	 + 259 records out from TurtleLeads Health & Life (dataturtleleads) via Turtle Leads to Master SIB (Sendinblue (Main)) LIST:Initial Turtle Leads ESPID:28
+
+	 + 2022-12-07, datasource (TurtleLeads Health & Life) brought in 464 records.
+
+	Datasource ID: 13
+	Datasource Table: dataturtleleads
+	Datasource Description: TurtleLeads Health & Life
+
+	 + 226 records out from TurtleLeads Health & Life (dataturtleleads) via Turtle Leads to Master SIB (Sendinblue (Main)) LIST:Initial Turtle Leads ESPID:28
+	 + 460 records out from TurtleLeads Health & Life (dataturtleleads) via Turtle Leads to CR Marketing (CRMarketing API) LIST:Default ESPID:33
+
+	 + 2022-12-08, datasource (TurtleLeads Health & Life) brought in 240 records.
+
+	Datasource ID: 13
+	Datasource Table: dataturtleleads
+	Datasource Description: TurtleLeads Health & Life
+
+	 + 238 records out from TurtleLeads Health & Life (dataturtleleads) via Turtle Leads to CR Marketing (CRMarketing API) LIST:Default ESPID:33
+	 + 132 records out from TurtleLeads Health & Life (dataturtleleads) via Turtle Leads to Master SIB (Sendinblue (Main)) LIST:Initial Turtle Leads ESPID:28
+
+REPORT for SuCo Last6 Mo Data | datalast6mo
+
+	 + 2022-12-02, datasource (SuCo Last6 Mo Data) brought in 0 records.
+
+	Datasource ID: 15
+	Datasource Table: datalast6mo
+	Datasource Description: SuCo Last6 Mo Data
+
+	 + 238 records out from SuCo Last6 Mo Data (datalast6mo) via Historical SuCo Solar to HIH SIB (Sendinblue (HIH)) LIST:Initial Historical Solar ESPID:36
+
+	 + 2022-12-03, datasource (SuCo Last6 Mo Data) brought in 0 records.
+
+	Datasource ID: 15
+	Datasource Table: datalast6mo
+	Datasource Description: SuCo Last6 Mo Data
+
+	 + 720 records out from SuCo Last6 Mo Data (datalast6mo) via Historical SuCo Solar to HIH SIB (Sendinblue (HIH)) LIST:Initial Historical Solar ESPID:36
+
+	 + 2022-12-04, datasource (SuCo Last6 Mo Data) brought in 0 records.
+
+	Datasource ID: 15
+	Datasource Table: datalast6mo
+	Datasource Description: SuCo Last6 Mo Data
+
+	 + 720 records out from SuCo Last6 Mo Data (datalast6mo) via Historical SuCo Solar to HIH SIB (Sendinblue (HIH)) LIST:Initial Historical Solar ESPID:36
+
+	 + 2022-12-05, datasource (SuCo Last6 Mo Data) brought in 0 records.
+
+	Datasource ID: 15
+	Datasource Table: datalast6mo
+	Datasource Description: SuCo Last6 Mo Data
+
+	 + 720 records out from SuCo Last6 Mo Data (datalast6mo) via Historical SuCo Solar to HIH SIB (Sendinblue (HIH)) LIST:Initial Historical Solar ESPID:36
+
+	 + 2022-12-06, datasource (SuCo Last6 Mo Data) brought in 0 records.
+
+	Datasource ID: 15
+	Datasource Table: datalast6mo
+	Datasource Description: SuCo Last6 Mo Data
+
+	 + 720 records out from SuCo Last6 Mo Data (datalast6mo) via Historical SuCo Solar to HIH SIB (Sendinblue (HIH)) LIST:Initial Historical Solar ESPID:36
+
+	 + 2022-12-07, datasource (SuCo Last6 Mo Data) brought in 0 records.
+
+	Datasource ID: 15
+	Datasource Table: datalast6mo
+	Datasource Description: SuCo Last6 Mo Data
+
+	 + 429 records out from SuCo Last6 Mo Data (datalast6mo) via Historical SuCo Solar to HIH SIB (Sendinblue (HIH)) LIST:Initial Historical Solar ESPID:36
+
+	 + 2022-12-08, datasource (SuCo Last6 Mo Data) brought in 0 records.
+
+	Datasource ID: 15
+	Datasource Table: datalast6mo
+	Datasource Description: SuCo Last6 Mo Data
+
+	 + 650 records out from SuCo Last6 Mo Data (datalast6mo) via Historical SuCo Solar to HIH SIB (Sendinblue (HIH)) LIST:Initial Historical Solar ESPID:36
+
+REPORT for Yahoo Super Responder File | datasuperyahoo
+
+	 + 2022-12-02, datasource (Yahoo Super Responder File) brought in 0 records.
+
+	Datasource ID: 16
+	Datasource Table: datasuperyahoo
+	Datasource Description: Yahoo Super Responder File
+
+	 + 27 records out from Yahoo Super Responder File (datasuperyahoo) via MasterMyFinances-YahooSuperResponders-SIB (Blastable (Puremailers.com)) LIST:Yahoo Openers ESPID:37
+
+	 + 2022-12-03, datasource (Yahoo Super Responder File) brought in 0 records.
+
+	Datasource ID: 16
+	Datasource Table: datasuperyahoo
+	Datasource Description: Yahoo Super Responder File
+
+	 + 95 records out from Yahoo Super Responder File (datasuperyahoo) via MasterMyFinances-YahooSuperResponders-SIB (Blastable (Puremailers.com)) LIST:Yahoo Openers ESPID:37
+
+	 + 2022-12-04, datasource (Yahoo Super Responder File) brought in 0 records.
+
+	Datasource ID: 16
+	Datasource Table: datasuperyahoo
+	Datasource Description: Yahoo Super Responder File
+
+	 + 1876 records out from Yahoo Super Responder File (datasuperyahoo) via MasterMyFinances-YahooSuperResponders-SIB (Blastable (Puremailers.com)) LIST:Yahoo Openers ESPID:37
+
+	 + 2022-12-05, datasource (Yahoo Super Responder File) brought in 0 records.
+
+	Datasource ID: 16
+	Datasource Table: datasuperyahoo
+	Datasource Description: Yahoo Super Responder File
+
+	 + 2911 records out from Yahoo Super Responder File (datasuperyahoo) via MasterMyFinances-YahooSuperResponders-SIB (Blastable (Puremailers.com)) LIST:Yahoo Openers ESPID:37
+
+	 + 2022-12-06, datasource (Yahoo Super Responder File) brought in 0 records.
+
+	Datasource ID: 16
+	Datasource Table: datasuperyahoo
+	Datasource Description: Yahoo Super Responder File
+
+	 + 2824 records out from Yahoo Super Responder File (datasuperyahoo) via MasterMyFinances-YahooSuperResponders-SIB (Blastable (Puremailers.com)) LIST:Yahoo Openers ESPID:37
+
+	 + 2022-12-07, datasource (Yahoo Super Responder File) brought in 0 records.
+
+	Datasource ID: 16
+	Datasource Table: datasuperyahoo
+	Datasource Description: Yahoo Super Responder File
+
+	 + 1489 records out from Yahoo Super Responder File (datasuperyahoo) via MasterMyFinances-YahooSuperResponders-SIB (Blastable (Puremailers.com)) LIST:Yahoo Openers ESPID:37
+
+	 + 2022-12-08, datasource (Yahoo Super Responder File) brought in 0 records.
+
+	Datasource ID: 16
+	Datasource Table: datasuperyahoo
+	Datasource Description: Yahoo Super Responder File
+
+	 + 2804 records out from Yahoo Super Responder File (datasuperyahoo) via MasterMyFinances-YahooSuperResponders-SIB (Blastable (Puremailers.com)) LIST:Yahoo Openers ESPID:37
+
+REPORT for Flex Historical 1 | dataflex6mo
+
+	 + 2022-12-02, datasource (Flex Historical 1) brought in 0 records.
+
+	Datasource ID: 17
+	Datasource Table: dataflex6mo
+	Datasource Description: Flex Historical 1
+
+
+	 + 2022-12-03, datasource (Flex Historical 1) brought in 0 records.
+
+	Datasource ID: 17
+	Datasource Table: dataflex6mo
+	Datasource Description: Flex Historical 1
+
+
+	 + 2022-12-04, datasource (Flex Historical 1) brought in 0 records.
+
+	Datasource ID: 17
+	Datasource Table: dataflex6mo
+	Datasource Description: Flex Historical 1
+
+
+	 + 2022-12-05, datasource (Flex Historical 1) brought in 0 records.
+
+	Datasource ID: 17
+	Datasource Table: dataflex6mo
+	Datasource Description: Flex Historical 1
+
+
+	 + 2022-12-06, datasource (Flex Historical 1) brought in 0 records.
+
+	Datasource ID: 17
+	Datasource Table: dataflex6mo
+	Datasource Description: Flex Historical 1
+
+
+	 + 2022-12-07, datasource (Flex Historical 1) brought in 0 records.
+
+	Datasource ID: 17
+	Datasource Table: dataflex6mo
+	Datasource Description: Flex Historical 1
+
+
+	 + 2022-12-08, datasource (Flex Historical 1) brought in 0 records.
+
+	Datasource ID: 17
+	Datasource Table: dataflex6mo
+	Datasource Description: Flex Historical 1
+
+
+REPORT for Interest Media Test Data | datatcpa14
+
+	 + 2022-12-02, datasource (Interest Media Test Data) brought in 0 records.
+
+	Datasource ID: 18
+	Datasource Table: datatcpa14
+	Datasource Description: Interest Media Test Data
+
+
+	 + 2022-12-03, datasource (Interest Media Test Data) brought in 0 records.
+
+	Datasource ID: 18
+	Datasource Table: datatcpa14
+	Datasource Description: Interest Media Test Data
+
+
+	 + 2022-12-04, datasource (Interest Media Test Data) brought in 0 records.
+
+	Datasource ID: 18
+	Datasource Table: datatcpa14
+	Datasource Description: Interest Media Test Data
+
+
+	 + 2022-12-05, datasource (Interest Media Test Data) brought in 0 records.
+
+	Datasource ID: 18
+	Datasource Table: datatcpa14
+	Datasource Description: Interest Media Test Data
+
+
+	 + 2022-12-06, datasource (Interest Media Test Data) brought in 0 records.
+
+	Datasource ID: 18
+	Datasource Table: datatcpa14
+	Datasource Description: Interest Media Test Data
+
+
+	 + 2022-12-07, datasource (Interest Media Test Data) brought in 0 records.
+
+	Datasource ID: 18
+	Datasource Table: datatcpa14
+	Datasource Description: Interest Media Test Data
+
+
+	 + 2022-12-08, datasource (Interest Media Test Data) brought in 0 records.
+
+	Datasource ID: 18
+	Datasource Table: datatcpa14
+	Datasource Description: Interest Media Test Data
+
+
+REPORT for Encortex GMYAHM Flat File | dataencortexgmyahm
+
+	 + 2022-12-02, datasource (Encortex GMYAHM Flat File) brought in 0 records.
+
+	Datasource ID: 19
+	Datasource Table: dataencortexgmyahm
+	Datasource Description: Encortex GMYAHM Flat File
+
+	 + 8 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Encortex GMYAHM to Blastable (Blastable (Puremailers.com)) LIST:Gmail ESPID:40
+	 + 8 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Encortex GMYAHM to Blastable (Blastable (Puremailers.com)) LIST:Yahoo ESPID:41
+	 + 8 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Encortex GMYAHM to Blastable (Blastable (Puremailers.com)) LIST:Hotmail ESPID:42
+	 + 70 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Marwan (Encortex) to SIB KN (Sendinblue (KN)) LIST:Initial Marwan ESPID:44
+	 + 70 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Marwan (Encortex) to SIB IF (Sendinblue (IF)) LIST:Initial Marwan ESPID:43
+	 + 68 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Marwan (Encortex) to SIB MAIN (Sendinblue (Main)) LIST:Initial Marwan ESPID:46
+	 + 70 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Marwan (Encortex) to SIB HIH (Sendinblue (HIH)) LIST:Initial Marwan ESPID:45
+
+	 + 2022-12-03, datasource (Encortex GMYAHM Flat File) brought in 0 records.
+
+	Datasource ID: 19
+	Datasource Table: dataencortexgmyahm
+	Datasource Description: Encortex GMYAHM Flat File
+
+	 + 240 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Marwan (Encortex) to SIB MAIN (Sendinblue (Main)) LIST:Initial Marwan ESPID:46
+	 + 230 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Marwan (Encortex) to SIB IF (Sendinblue (IF)) LIST:Initial Marwan ESPID:43
+	 + 240 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Marwan (Encortex) to SIB KN (Sendinblue (KN)) LIST:Initial Marwan ESPID:44
+	 + 240 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Marwan (Encortex) to SIB HIH (Sendinblue (HIH)) LIST:Initial Marwan ESPID:45
+	 + 30 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Encortex GMYAHM to Blastable (Blastable (Puremailers.com)) LIST:Hotmail ESPID:42
+	 + 49 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Encortex GMYAHM to Blastable (Blastable (Puremailers.com)) LIST:Yahoo ESPID:41
+	 + 24 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Encortex GMYAHM to Blastable (Blastable (Puremailers.com)) LIST:Gmail ESPID:40
+
+	 + 2022-12-04, datasource (Encortex GMYAHM Flat File) brought in 0 records.
+
+	Datasource ID: 19
+	Datasource Table: dataencortexgmyahm
+	Datasource Description: Encortex GMYAHM Flat File
+
+	 + 24 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Encortex GMYAHM to Blastable (Blastable (Puremailers.com)) LIST:Gmail ESPID:40
+	 + 240 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Marwan (Encortex) to SIB MAIN (Sendinblue (Main)) LIST:Initial Marwan ESPID:46
+	 + 240 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Marwan (Encortex) to SIB HIH (Sendinblue (HIH)) LIST:Initial Marwan ESPID:45
+	 + 240 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Marwan (Encortex) to SIB KN (Sendinblue (KN)) LIST:Initial Marwan ESPID:44
+	 + 619 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Encortex GMYAHM to Blastable (Blastable (Puremailers.com)) LIST:Yahoo ESPID:41
+	 + 96 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Encortex GMYAHM to Blastable (Blastable (Puremailers.com)) LIST:Hotmail ESPID:42
+
+	 + 2022-12-05, datasource (Encortex GMYAHM Flat File) brought in 0 records.
+
+	Datasource ID: 19
+	Datasource Table: dataencortexgmyahm
+	Datasource Description: Encortex GMYAHM Flat File
+
+	 + 240 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Marwan (Encortex) to SIB KN (Sendinblue (KN)) LIST:Initial Marwan ESPID:44
+	 + 240 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Marwan (Encortex) to SIB MAIN (Sendinblue (Main)) LIST:Initial Marwan ESPID:46
+	 + 240 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Marwan (Encortex) to SIB HIH (Sendinblue (HIH)) LIST:Initial Marwan ESPID:45
+	 + 96 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Encortex GMYAHM to Blastable (Blastable (Puremailers.com)) LIST:Hotmail ESPID:42
+	 + 671 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Encortex GMYAHM to Blastable (Blastable (Puremailers.com)) LIST:Yahoo ESPID:41
+	 + 24 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Encortex GMYAHM to Blastable (Blastable (Puremailers.com)) LIST:Gmail ESPID:40
+
+	 + 2022-12-06, datasource (Encortex GMYAHM Flat File) brought in 0 records.
+
+	Datasource ID: 19
+	Datasource Table: dataencortexgmyahm
+	Datasource Description: Encortex GMYAHM Flat File
+
+	 + 24 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Encortex GMYAHM to Blastable (Blastable (Puremailers.com)) LIST:Gmail ESPID:40
+	 + 240 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Marwan (Encortex) to SIB MAIN (Sendinblue (Main)) LIST:Initial Marwan ESPID:46
+	 + 240 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Marwan (Encortex) to SIB HIH (Sendinblue (HIH)) LIST:Initial Marwan ESPID:45
+	 + 96 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Encortex GMYAHM to Blastable (Blastable (Puremailers.com)) LIST:Hotmail ESPID:42
+	 + 240 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Marwan (Encortex) to SIB KN (Sendinblue (KN)) LIST:Initial Marwan ESPID:44
+
+	 + 2022-12-07, datasource (Encortex GMYAHM Flat File) brought in 0 records.
+
+	Datasource ID: 19
+	Datasource Table: dataencortexgmyahm
+	Datasource Description: Encortex GMYAHM Flat File
+
+	 + 24 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Encortex GMYAHM to Blastable (Blastable (Puremailers.com)) LIST:Gmail ESPID:40
+	 + 240 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Marwan (Encortex) to SIB MAIN (Sendinblue (Main)) LIST:Initial Marwan ESPID:46
+	 + 240 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Marwan (Encortex) to SIB HIH (Sendinblue (HIH)) LIST:Initial Marwan ESPID:45
+	 + 200 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Marwan (Encortex) to SIB KN (Sendinblue (KN)) LIST:Initial Marwan ESPID:44
+	 + 96 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Encortex GMYAHM to Blastable (Blastable (Puremailers.com)) LIST:Hotmail ESPID:42
+
+	 + 2022-12-08, datasource (Encortex GMYAHM Flat File) brought in 0 records.
+
+	Datasource ID: 19
+	Datasource Table: dataencortexgmyahm
+	Datasource Description: Encortex GMYAHM Flat File
+
+	 + 180 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Marwan (Encortex) to SIB HIH (Sendinblue (HIH)) LIST:Initial Marwan ESPID:45
+	 + 180 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Marwan (Encortex) to SIB MAIN (Sendinblue (Main)) LIST:Initial Marwan ESPID:46
+	 + 68 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Encortex GMYAHM to Blastable (Blastable (Puremailers.com)) LIST:Hotmail ESPID:42
+	 + 11 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Encortex GMYAHM to Blastable (Blastable (Puremailers.com)) LIST:Gmail ESPID:40
+	 + 1932 records out from Encortex GMYAHM Flat File (dataencortexgmyahm) via Encortex GMYAHM to Blastable (Blastable (Puremailers.com)) LIST:Yahoo ESPID:41
+
+REPORT for Jet SMS Inbound Data | datajetsms
+
+	 + 2022-12-02, datasource (Jet SMS Inbound Data) brought in 0 records.
+
+	Datasource ID: 20
+	Datasource Table: datajetsms
+	Datasource Description: Jet SMS Inbound Data
+
+
+	 + 2022-12-03, datasource (Jet SMS Inbound Data) brought in 0 records.
+
+	Datasource ID: 20
+	Datasource Table: datajetsms
+	Datasource Description: Jet SMS Inbound Data
+
+
+	 + 2022-12-04, datasource (Jet SMS Inbound Data) brought in 0 records.
+
+	Datasource ID: 20
+	Datasource Table: datajetsms
+	Datasource Description: Jet SMS Inbound Data
+
+
+	 + 2022-12-05, datasource (Jet SMS Inbound Data) brought in 20147 records.
+
+	Datasource ID: 20
+	Datasource Table: datajetsms
+	Datasource Description: Jet SMS Inbound Data
+
+	 + 7 records out from Jet SMS Inbound Data (datajetsms) via Jet SMS to CR Marketing on 30d Delay (CRMarketing API) LIST:Default ESPID:47
+
+	 + 2022-12-06, datasource (Jet SMS Inbound Data) brought in 11647 records.
+
+	Datasource ID: 20
+	Datasource Table: datajetsms
+	Datasource Description: Jet SMS Inbound Data
+
+
+	 + 2022-12-07, datasource (Jet SMS Inbound Data) brought in 11975 records.
+
+	Datasource ID: 20
+	Datasource Table: datajetsms
+	Datasource Description: Jet SMS Inbound Data
+
+
+	 + 2022-12-08, datasource (Jet SMS Inbound Data) brought in 6979 records.
+
+	Datasource ID: 20
+	Datasource Table: datajetsms
+	Datasource Description: Jet SMS Inbound Data
+
+
+
+
+
+
+
+
+

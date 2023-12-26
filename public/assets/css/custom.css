@@ -1,0 +1,54 @@
+.buttonContainer {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    width: 100%;
+    margin-bottom: 10px;
+    transition-duration: 0.3s;
+    transition-property: background-color, color;
+}
+
+.buttonContainer button:hover {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+
+a {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.prevButton {
+    background-color: #007BFF;
+}
+
+.nextButton {
+    background-color: #28A745;
+}
+
+canvas {
+    height: 500px !important;
+}
+
+.buttonfilterright {
+    right: 4%;
+    position: absolute;
+}
+
+.zoom-link:hover {
+    transform: scale(1.1);
+}
